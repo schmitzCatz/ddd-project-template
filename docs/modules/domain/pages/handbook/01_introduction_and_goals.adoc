@@ -1,0 +1,28 @@
+= Domain Handbook
+:description: A guided domain-driven design handbook for the project.
+
+== Purpose
+
+This handbook describes the business domain, its language, capabilities, boundaries, models, rules and decisions. It complements the arc42 architecture documentation without duplicating technical design.
+
+== How to use this template
+
+. Start with the domain vision and ubiquitous language.
+. Explore business capabilities and subdomains before defining bounded contexts.
+. Model bounded contexts, their relationships, and domain objects iteratively.
+. Record domain events, business processes, rules and integration semantics.
+. Capture unresolved questions and revisit the model as understanding evolves.
+
+TIP: Each chapter contains guidance in a collapsible *Template guidance* section. Replace placeholder content with project-specific knowledge; remove guidance blocks before publication if desired.
+
+== Modeling principles
+
+* Business capabilities describe *what* the business can do.
+* Subdomains describe areas of the *problem space*.
+* Bounded contexts define boundaries of a consistent *solution model*.
+* Aggregates protect business invariants, not arbitrary object graphs.
+* Architecture implementation choices belong primarily in arc42.
+
+== Handbook chapters
+
+See the Domain Handbook entries in the site navigation.

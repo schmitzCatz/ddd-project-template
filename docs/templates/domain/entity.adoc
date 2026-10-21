@@ -1,0 +1,20 @@
+= {{name}}
+
+// Created: {{date}}
+// Context: {{context}}
+
+== Purpose
+
+TODO: Describe the purpose.
+
+== Responsibilities and Rules
+
+TODO: Describe responsibilities and invariants.
+
+== Relationships
+
+TODO: Describe related domain concepts.
+
+== Open Questions
+
+TODO: Record unresolved questions.

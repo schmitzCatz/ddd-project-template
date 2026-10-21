@@ -1,0 +1,53 @@
+= Business Capabilities
+:description: Domain Handbook — Business Capabilities.
+
+== Purpose
+
+Describe what the business must be able to do, independent of software design.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which capabilities deliver the desired outcomes?
+* Which actors rely on each capability?
+* How do capabilities depend on one another?
+* Which capabilities are differentiating?
+
+*Expected artifacts*
+
+* Capability map
+* Capability descriptions
+* Business outcomes
+* Capability dependencies
+* Prioritization
+
+*Modeling guidelines*
+
+Use verb-noun names where possible. Avoid treating capabilities as services or bounded contexts.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Capability Catalog
+
+[cols="2,3,3,2",options="header"]
+|===
+|Capability |Description |Business Outcome |Priority
+|TODO |TODO |TODO |TODO
+|===
+
+== Capability Map
+
+TODO: Add a capability map using a suitable diagram or structured list.
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

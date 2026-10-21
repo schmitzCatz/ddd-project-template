@@ -1,0 +1,67 @@
+= Domain Decisions
+:description: Domain Handbook — Domain Decisions.
+
+== Purpose
+
+Record consequential business-model decisions and their rationale.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which domain alternatives were considered?
+* What evidence informed the decision?
+* What are the consequences?
+* When should it be revisited?
+
+*Expected artifacts*
+
+* Decision log
+* Context and drivers
+* Options
+* Decision
+* Consequences and revisit triggers
+
+*Modeling guidelines*
+
+Separate domain decisions from technical ADRs. Link related decisions instead of duplicating them.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Decision Log
+
+[cols="2,3,2,3",options="header"]
+|===
+|ID |Decision |Status |Rationale / Link
+|DD-001 |TODO |Proposed |TODO
+|===
+
+== Decision Record Template
+
+=== Context
+
+TODO
+
+=== Considered Options
+
+* TODO
+
+=== Decision
+
+TODO
+
+=== Consequences
+
+TODO
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

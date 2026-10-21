@@ -1,0 +1,58 @@
+= Business Processes
+:description: Domain Handbook — Business Processes.
+
+== Purpose
+
+Describe workflows and business scenarios across actors and contexts.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* What starts and ends the process?
+* What are the normal and exceptional paths?
+* Which business decisions occur?
+* Which contexts collaborate?
+
+*Expected artifacts*
+
+* Process inventory
+* Happy path
+* Alternative and failure paths
+* Actors
+* Business events and outcomes
+
+*Modeling guidelines*
+
+Prefer business scenarios and event flows over UI click sequences. Show cross-context handoffs.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Process Inventory
+
+[cols="2,2,3,3",options="header"]
+|===
+|Process |Trigger |Outcome |Participating Contexts
+|TODO |TODO |TODO |TODO
+|===
+
+== Main Scenario
+
+. TODO: Describe the first business step.
+. TODO: Describe the expected outcome.
+
+== Exceptions and Alternatives
+
+* TODO: Describe an alternative or failure scenario.
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

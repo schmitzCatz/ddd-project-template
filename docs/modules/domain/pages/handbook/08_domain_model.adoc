@@ -1,0 +1,53 @@
+= Domain Model
+:description: Domain Handbook — Domain Model.
+
+== Purpose
+
+Describe the domain concepts, identities, values, aggregates and invariants.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which entities have identity over time?
+* Which concepts are value objects?
+* Where are transactional consistency boundaries?
+* Which behaviors belong in the domain?
+
+*Expected artifacts*
+
+* Entity catalog
+* Value object catalog
+* Aggregate definitions
+* Invariants
+* Domain model diagrams
+
+*Modeling guidelines*
+
+Model behavior and invariants, not only data fields. Avoid database-centric diagrams.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Domain Concepts
+
+[cols="2,2,3",options="header"]
+|===
+|Concept |Kind |Responsibility
+|TODO |Entity / Value Object / Aggregate / Service |TODO
+|===
+
+== Invariants
+
+* TODO: Describe invariants and the aggregate responsible for enforcing them.
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

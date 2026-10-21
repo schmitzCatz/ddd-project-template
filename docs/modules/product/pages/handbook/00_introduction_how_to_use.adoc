@@ -1,0 +1,37 @@
+= Introduction and How to Use
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Explain the handbook purpose, audience and maintenance approach.
+
+*Guiding Questions*
+* Who uses this handbook?
+* Where is the authoritative source for each artifact?
+
+*Expected Artifacts*
+* Document ownership
+* Links to Domain Handbook and arc42
+
+*Guidelines*
+* Describe the product documentation workflow.
+* Keep operational information in GitHub and link to it.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

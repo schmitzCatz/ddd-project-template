@@ -1,0 +1,48 @@
+= Ubiquitous Language
+:description: Domain Handbook — Ubiquitous Language.
+
+== Purpose
+
+Establish shared terms used consistently by domain experts, documentation and code.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which terms have specific business meanings?
+* Where do synonyms or conflicting meanings exist?
+* Do meanings differ across contexts?
+* Which terms must not be used interchangeably?
+
+*Expected artifacts*
+
+* Glossary table
+* Synonyms and forbidden terms
+* Context-specific definitions
+* Open terminology disputes
+
+*Modeling guidelines*
+
+Define terms with examples and counterexamples. Record the owning context where meanings differ.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Glossary
+
+[cols="2,4,2,2",options="header"]
+|===
+|Term |Definition |Bounded Context |Notes
+|TODO |TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

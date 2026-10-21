@@ -1,0 +1,37 @@
+= Assumptions and Experiments
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Make uncertainty explicit and plan validation.
+
+*Guiding Questions*
+* Which assumptions are most risky?
+* How can they be tested cheaply?
+
+*Expected Artifacts*
+* Assumption register
+* Experiment results
+
+*Guidelines*
+* State hypotheses, methods and success thresholds.
+* Record learnings and decisions.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

@@ -1,0 +1,37 @@
+= Risks and Dependencies
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Identify factors affecting product outcomes.
+
+*Guiding Questions*
+* What could prevent success?
+* Which external teams or systems are dependencies?
+
+*Expected Artifacts*
+* Risk overview
+* Dependency links
+
+*Guidelines*
+* Document impact, likelihood and mitigation.
+* Link operational follow-up to GitHub Issues.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

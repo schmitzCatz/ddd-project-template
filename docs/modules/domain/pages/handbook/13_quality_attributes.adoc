@@ -1,0 +1,48 @@
+= Quality Attributes
+:description: Domain Handbook — Quality Attributes.
+
+== Purpose
+
+Capture quality expectations that influence domain design and operations.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which quality attributes matter most?
+* What concrete scenarios demonstrate them?
+* What trade-offs are acceptable?
+* How will compliance be measured?
+
+*Expected artifacts*
+
+* Quality scenarios
+* Measurable acceptance criteria
+* Trade-offs
+* Domain-specific constraints
+
+*Modeling guidelines*
+
+Use stimulus, environment, response and measure. Keep architectural solutions in the architecture handbook.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Quality Scenarios
+
+[cols="2,3,3",options="header"]
+|===
+|Attribute |Scenario |Measurable Response
+|TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

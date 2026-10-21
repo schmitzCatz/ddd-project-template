@@ -1,0 +1,22 @@
+{
+  "name": "vis-docs",
+  "version": "1.0.0",
+  "description": "Documentation of Valkyrie-Intelligence-Suite",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "antora": "antora antora-playbook.yml",
+    "build": "npm run antora",
+    "watch": "chokidar \"supplemental-ui/**/*.hbs\" \"modules/**/*.adoc\" \"modules/**/*.puml\" \"antora.yml\" \"antora-playbook.yml\" -c \"npm run build\"",
+    "serve": "browser-sync start --server build/site --files \"build/site/**/*\" --port 3000 --no-open",
+    "start": "npm run build && concurrently -k -n WATCH,SERVER \"npm:watch\" \"npm:serve\"",
+    "generate": "node scripts/generate.mjs",
+    "test:generator": "node --test tests/generate.test.mjs"
+  },
+  "devDependencies": {
+    "antora": "3.2.1",
+    "browser-sync": "^3.0.4",
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^10.0.6"
+  }
+}

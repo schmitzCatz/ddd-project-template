@@ -1,0 +1,53 @@
+= Bounded Contexts
+:description: Domain Handbook — Bounded Contexts.
+
+== Purpose
+
+Define explicit boundaries in which a particular domain model and language are consistent.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Where does a term change meaning?
+* Which responsibilities belong together?
+* Which invariants must be protected?
+* Who owns each model?
+
+*Expected artifacts*
+
+* Context catalog
+* Purpose and responsibilities
+* Language and key concepts
+* Inputs and outputs
+* Ownership and boundaries
+
+*Modeling guidelines*
+
+Use one detailed context page per bounded context when necessary. Do not assume one context equals one microservice.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Context Catalog
+
+[cols="2,3,3",options="header"]
+|===
+|Bounded Context |Responsibility |Owned Concepts
+|TODO |TODO |TODO
+|===
+
+== Context Detail Template
+
+For each context, document purpose, boundaries, ubiquitous language, key rules, interactions, ownership and open questions.
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

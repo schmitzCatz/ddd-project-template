@@ -1,0 +1,18 @@
+title: "[Help] "
+labels: []
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question or problem
+      description: Do not post secrets or personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you tried?
+  - type: textarea
+    id: environment
+    attributes:
+      label: Relevant environment

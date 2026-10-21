@@ -1,0 +1,25 @@
+title: "[Idea] "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: Who is affected and what is the problem?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed outcome
+      description: Focus on the desired outcome rather than implementation details.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and trade-offs
+  - type: textarea
+    id: references
+    attributes:
+      label: Relevant product or domain documentation

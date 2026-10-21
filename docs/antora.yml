@@ -1,0 +1,10 @@
+name: project-name
+version: ~
+title: Project Name
+asciidoc:
+  attributes:
+    revnumber: '0.1.0'
+    revdate: '2026-10-15'
+    revremark: 'Initial Draft'
+nav:
+  - modules/ROOT/nav.adoc

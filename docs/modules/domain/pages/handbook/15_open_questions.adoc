@@ -1,0 +1,57 @@
+= Open Questions and Risks
+:description: Domain Handbook — Open Questions and Risks.
+
+== Purpose
+
+Track unresolved domain questions, assumptions and risks.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which assumptions lack validation?
+* Which uncertainties could change context boundaries?
+* What is the impact if an assumption is wrong?
+* Who can resolve each question?
+
+*Expected artifacts*
+
+* Open question register
+* Risk register
+* Assumptions
+* Validation actions
+* Owners and target dates
+
+*Modeling guidelines*
+
+Keep questions actionable and link resolutions to the affected handbook chapters.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Open Questions
+
+[cols="2,4,2,2",options="header"]
+|===
+|ID |Question |Owner |Next Action
+|Q-001 |TODO |TODO |TODO
+|===
+
+== Risks
+
+[cols="2,4,2,3",options="header"]
+|===
+|ID |Risk |Impact |Mitigation
+|R-001 |TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

@@ -1,0 +1,37 @@
+= Prioritization and Backlog
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Explain how product work is selected.
+
+*Guiding Questions*
+* Which criteria determine priority?
+* How are tradeoffs made?
+
+*Expected Artifacts*
+* Prioritization criteria
+* GitHub backlog link
+
+*Guidelines*
+* Define a lightweight prioritization method.
+* Keep item status and ordering in GitHub Projects.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

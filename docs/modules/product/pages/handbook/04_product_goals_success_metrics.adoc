@@ -1,0 +1,37 @@
+= Product Goals and Success Metrics
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Define measurable outcomes and evaluation criteria.
+
+*Guiding Questions*
+* What should change?
+* How will success be measured?
+
+*Expected Artifacts*
+* Outcome goals
+* Metrics and baselines
+
+*Guidelines*
+* Specify metric definition, target and review cadence.
+* Avoid treating output volume as outcome.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature idea
+    url: https://github.com/schmitzCatz/Valkyrie-Intelligence-Suite/discussions/categories/feature-requests
+    about: Discuss and refine a proposal before implementation.
+  - name: General question
+    url: https://github.com/schmitzCatz/Valkyrie-Intelligence-Suite/discussions/categories/general
+    about: Ask a question or discuss a topic.
+  - name: Community support
+    url: https://github.com/schmitzCatz/Valkyrie-Intelligence-Suite/discussions/categories/support
+    about: Ask for troubleshooting help.

@@ -1,0 +1,37 @@
+= Problem and Opportunity
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Describe the problem and supporting evidence.
+
+*Guiding Questions*
+* Which problem is worth solving?
+* What evidence demonstrates its importance?
+
+*Expected Artifacts*
+* Problem statement
+* Opportunity assessment
+
+*Guidelines*
+* Separate observations from assumptions.
+* Record baseline and evidence sources.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

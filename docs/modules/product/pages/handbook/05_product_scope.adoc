@@ -1,0 +1,37 @@
+= Product Scope
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Clarify boundaries and exclusions.
+
+*Guiding Questions*
+* What is in scope now?
+* What is explicitly out of scope?
+
+*Expected Artifacts*
+* Scope statement
+* Non-goals
+
+*Guidelines*
+* List included and excluded capabilities at a high level.
+* Link detailed definitions in the Domain Handbook.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

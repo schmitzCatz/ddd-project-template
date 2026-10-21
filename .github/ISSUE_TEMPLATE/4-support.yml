@@ -1,0 +1,20 @@
+name: Support task
+description: Track actionable internal support or maintenance work
+title: "[Support]: "
+labels: ["type: support", "status: triage"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Requested assistance
+      description: What needs to be done? For open-ended questions, prefer Discussions.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and attempted steps
+  - type: textarea
+    id: completion
+    attributes:
+      label: Definition of done

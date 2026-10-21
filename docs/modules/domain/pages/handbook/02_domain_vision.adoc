@@ -1,0 +1,42 @@
+= Domain Vision
+:description: Domain Handbook — Domain Vision.
+
+== Purpose
+
+Explain the business problem, desired outcomes and boundaries of the domain.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* What problem are we solving?
+* Who benefits and how?
+* What is explicitly outside the domain?
+* What outcomes indicate success?
+
+*Expected artifacts*
+
+* Business context
+* Domain mission statement
+* Goals and measurable outcomes
+* Stakeholders and actors
+* Scope and exclusions
+* Assumptions
+
+*Modeling guidelines*
+
+State the mission in business language. Avoid implementation decisions. Distinguish measurable outcomes from proposed features.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

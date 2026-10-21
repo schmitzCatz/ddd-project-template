@@ -1,0 +1,37 @@
+= Features and Requirements
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Organize product functionality and constraints.
+
+*Guiding Questions*
+* Which features support which goals?
+* What acceptance criteria apply?
+
+*Expected Artifacts*
+* Feature overview
+* Requirement links
+
+*Guidelines*
+* Reference GitHub Issues as operational source.
+* Separate user needs from solution decisions.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

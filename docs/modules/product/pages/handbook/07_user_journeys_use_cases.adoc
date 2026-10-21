@@ -1,0 +1,37 @@
+= User Journeys and Use Cases
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Describe user interactions and intended outcomes.
+
+*Guiding Questions*
+* What triggers a journey?
+* What outcome does the user seek?
+
+*Expected Artifacts*
+* Journey map
+* Use-case catalog
+
+*Guidelines*
+* Capture actor, trigger, steps, exceptions and outcome.
+* Link to detailed domain processes where appropriate.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

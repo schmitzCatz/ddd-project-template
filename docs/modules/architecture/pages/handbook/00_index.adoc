@@ -1,0 +1,92 @@
+:toc-title: table of contents
+:toc:
+:imagesdir: ../../images
+:arc42help:
+
+= image:arc42-logo.png[arc42] Template
+:doctype: book
+:revnumber: {revnumber}
+:revdate: {revdate}
+:revremark: {revremark}
+:toc-title: Table of Contents
+
+ifdef::backend-html5[]
+++++
+<style>
+.arc42help {font-size:small; width: 14px; height: 16px; overflow: hidden; position: absolute; right: 0; padding: 2px 0 3px 2px;}
+.arc42help::before {content: "?";}
+.arc42help:hover {width:auto; height: auto; z-index: 100; padding: 10px;}
+.arc42help:hover::before {content: "";}
+@media print {
+    .arc42help {display:none;}
+}
+</style>
+++++
+endif::backend-html5[]
+
+:homepage: https://arc42.org
+
+:keywords: software-architecture, documentation, template, arc42
+
+:numbered!:
+**About arc42**
+
+[role="lead"]
+arc42, the template for documentation of software and system architecture.
+
+Template Version {revnumber}. {revremark}, {revdate}
+
+Created, maintained and (C) by Dr. Peter Hruschka, Dr. Gernot Starke and contributors.
+See https://arc42.org.
+
+'''
+
+ifdef::arc42help[]
+[role="arc42help"]
+****
+[NOTE]
+====
+This version of the template contains some help and explanations.
+It is used for familiarization with arc42 and the understanding of the concepts.
+For documentation of your own system you use better the _plain_ version.
+====
+****
+endif::arc42help[]
+
+:numbered:
+
+<<<
+include::01_introduction_and_goals.adoc[]
+
+<<<
+include::02_architecture_constraints.adoc[]
+
+<<<
+include::03_context_and_scope.adoc[]
+
+<<<
+include::04_solution_strategy.adoc[]
+
+<<<
+include::05_building_block_view.adoc[]
+
+<<<
+include::06_runtime_view.adoc[]
+
+<<<
+include::07_deployment_view.adoc[]
+
+<<<
+include::08_concepts.adoc[]
+
+<<<
+include::09_architecture_decisions.adoc[]
+
+<<<
+include::10_quality_requirements.adoc[]
+
+<<<
+include::11_technical_risks.adoc[]
+
+<<<
+include::12_glossary.adoc[]

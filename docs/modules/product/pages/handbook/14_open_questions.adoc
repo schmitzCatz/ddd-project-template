@@ -1,0 +1,37 @@
+= Open Questions
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Track unresolved product questions.
+
+*Guiding Questions*
+* What remains unknown?
+* What evidence or decision will close each question?
+
+*Expected Artifacts*
+* Open-question register
+* Next discovery actions
+
+*Guidelines*
+* Assign a next action and reference.
+* Archive resolved questions or link the decision.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

@@ -1,0 +1,88 @@
+version: 2
+
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Berlin"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "ci"
+    groups:
+      github-actions-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  - package-ecosystem: "gradle"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:15"
+      timezone: "Europe/Berlin"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "gradle"
+    commit-message:
+      prefix: "build"
+    groups:
+      gradle-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  - package-ecosystem: "npm"
+    directory: "/frontend"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:30"
+      timezone: "Europe/Berlin"
+    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+      - "npm"
+      - "frontend"
+    commit-message:
+      prefix: "build"
+    groups:
+      npm-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  - package-ecosystem: "npm"
+    directory: "/docs"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:45"
+      timezone: "Europe/Berlin"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "npm"
+      - "documentation"
+    commit-message:
+      prefix: "docs"
+    groups:
+      docs-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"

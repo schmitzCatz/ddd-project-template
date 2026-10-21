@@ -1,0 +1,5 @@
+= Product
+
+The Product Handbook documents product intent, value, users, and strategic direction.
+
+See xref:product:handbook/00_introduction_how_to_use.adoc[Product Handbook].

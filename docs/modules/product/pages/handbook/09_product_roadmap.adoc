@@ -1,0 +1,37 @@
+= Product Roadmap
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Communicate planned outcomes and sequencing.
+
+*Guiding Questions*
+* What are the next outcome milestones?
+* What dependencies affect sequencing?
+
+*Expected Artifacts*
+* Now/Next/Later overview
+* Milestone links
+
+*Guidelines*
+* Document intent and uncertainty.
+* Link to live GitHub Project roadmap rather than duplicating it.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

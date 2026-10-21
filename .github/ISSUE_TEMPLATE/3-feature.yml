@@ -1,0 +1,36 @@
+name: Feature implementation
+description: Implement an agreed product capability
+title: "[Feature]: "
+labels: ["type: feature", "status: triage"]
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: User need and outcome
+      description: Who needs what, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and non-goals
+      description: State what is in and out of scope.
+    validations:
+      required: true
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Acceptance criteria
+      placeholder: "- [ ] Given ... When ... Then ..."
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Product, domain and architecture references
+      description: Link relevant handbook pages, ADRs, and related issues.
+  - type: textarea
+    id: test
+    attributes:
+      label: Testing and observability
+      description: How will we verify this works and detect regressions?

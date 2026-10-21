@@ -1,0 +1,37 @@
+= Stakeholders and Users
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Identify actors, user segments and their needs.
+
+*Guiding Questions*
+* Who uses, buys, operates or influences the product?
+* What jobs and pain points matter?
+
+*Expected Artifacts*
+* Stakeholder map
+* Personas or jobs-to-be-done
+
+*Guidelines*
+* Describe key segments and needs.
+* Link research findings where available.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

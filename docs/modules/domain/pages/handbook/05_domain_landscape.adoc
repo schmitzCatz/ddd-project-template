@@ -1,0 +1,48 @@
+= Domain Landscape
+:description: Domain Handbook — Domain Landscape.
+
+== Purpose
+
+Identify subdomains and classify their strategic importance.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which distinct problem spaces exist?
+* What is core, supporting or generic?
+* Where are the greatest complexity and change?
+* What expertise is needed?
+
+*Expected artifacts*
+
+* Subdomain catalog
+* Core/supporting/generic classification
+* Domain landscape diagram
+* Key uncertainties
+
+*Modeling guidelines*
+
+Subdomains are problem-space boundaries. Do not derive them mechanically from teams or code packages.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Subdomain Catalog
+
+[cols="2,2,4",options="header"]
+|===
+|Subdomain |Classification |Rationale
+|TODO |Core / Supporting / Generic |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

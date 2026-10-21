@@ -1,0 +1,49 @@
+= Integrations
+:description: Domain Handbook — Integrations.
+
+== Purpose
+
+Describe business-level interactions and contracts between contexts and external systems.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* What information or behavior crosses a boundary?
+* Who owns the contract?
+* Is interaction synchronous or asynchronous?
+* How are failures handled?
+
+*Expected artifacts*
+
+* Integration catalog
+* Contract descriptions
+* Data ownership
+* Failure and recovery behavior
+* Versioning expectations
+
+*Modeling guidelines*
+
+Focus on semantic contracts before transport protocols. Identify external systems and trust boundaries.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Integration Catalog
+
+[cols="2,2,2,3",options="header"]
+|===
+|Source |Target |Interaction |Business Contract
+|TODO |TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

@@ -1,0 +1,37 @@
+= Product Decisions
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Record consequential product choices.
+
+*Guiding Questions*
+* What was decided and why?
+* What alternatives were considered?
+
+*Expected Artifacts*
+* Decision log
+* Links to ADRs when technical
+
+*Guidelines*
+* Use short decision records with context and consequences.
+* Avoid duplicating architecture decisions.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

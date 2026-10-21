@@ -1,0 +1,26 @@
+name: Security hardening
+description: Track non-sensitive security improvements
+title: "[Security]: "
+labels: ["type: security", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: "**Do not report exploitable vulnerabilities here.** Use the repository Security tab / private vulnerability reporting or the private contact defined in SECURITY.md."
+  - type: input
+    id: area
+    attributes:
+      label: Area
+      placeholder: "Dependency policy, access control, logging..."
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: Non-sensitive improvement
+      description: Do not include exploit steps, credentials, or affected secrets.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria

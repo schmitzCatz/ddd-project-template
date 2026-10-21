@@ -1,0 +1,40 @@
+name: Bug report
+description: Report reproducible unexpected behavior
+title: "[Bug]: "
+labels: ["type: bug", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include credentials, tokens, or personal data."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Observed behavior
+      description: What happened, and what did you expect instead?
+      placeholder: "Actual: ... Expected: ..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. ...
+2. ...
+3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Version, operating system, browser, or runtime as relevant
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs and screenshots (sanitized)
+      description: Remove secrets and sensitive information before posting.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Fix verification
+      description: How can we verify the problem is resolved?

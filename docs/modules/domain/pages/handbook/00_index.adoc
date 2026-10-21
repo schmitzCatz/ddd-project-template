@@ -1,0 +1,59 @@
+:toc-title: Table of Contents
+:toc:
+:imagesdir: ../../images
+
+= Domain Template
+:doctype: book
+:revnumber: {revnumber}
+:revdate: {revdate}
+:revremark: {revremark}
+
+
+'''
+
+:numbered:
+
+<<<
+include::01_introduction_and_goals.adoc[]
+
+<<<
+include::02_domain_vision.adoc[]
+
+<<<
+include::03_ubiquitous_language.adoc[]
+
+<<<
+include::04_business_capabilities.adoc[]
+
+<<<
+include::05_domain_landscape.adoc[]
+
+<<<
+include::06_bounded_contexts.adoc[]
+
+<<<
+include::07_context_map.adoc[]
+
+<<<
+include::08_domain_model.adoc[]
+
+<<<
+include::09_domain_events.adoc[]
+
+<<<
+include::10_business_processes.adoc[]
+
+<<<
+include::11_business_rules.adoc[]
+
+<<<
+include::12_integrations.adoc[]
+
+<<<
+include::13_quality_attributes.adoc[]
+
+<<<
+include::14_domain_decisions.adoc[]
+
+<<<
+include::15_open_questions.adoc[]

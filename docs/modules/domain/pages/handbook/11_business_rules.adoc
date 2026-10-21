@@ -1,0 +1,49 @@
+= Business Rules
+:description: Domain Handbook — Business Rules.
+
+== Purpose
+
+Make domain policies, constraints and invariants explicit and testable.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which decisions are governed by business policy?
+* What must always remain true?
+* What varies by context, jurisdiction or time?
+* Who can change a rule?
+
+*Expected artifacts*
+
+* Rule catalog
+* Invariants
+* Decision tables
+* Examples and counterexamples
+* Rule ownership
+
+*Modeling guidelines*
+
+Write rules in unambiguous language. Link each rule to its context and acceptance examples.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Rule Catalog
+
+[cols="2,3,2,3",options="header"]
+|===
+|Rule ID |Rule |Owning Context |Example / Test
+|BR-001 |TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

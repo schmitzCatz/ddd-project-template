@@ -1,0 +1,49 @@
+= Domain Events
+:description: Domain Handbook — Domain Events.
+
+== Purpose
+
+Record meaningful business facts that have already occurred.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* What events matter to domain experts?
+* What triggers them?
+* Who consumes them?
+* What information is essential?
+
+*Expected artifacts*
+
+* Event catalog
+* Producer and consumer contexts
+* Payload examples
+* Ordering and idempotency considerations
+* Event lifecycle
+
+*Modeling guidelines*
+
+Use past-tense event names. Distinguish domain events from commands and integration messages.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Event Catalog
+
+[cols="2,2,2,3",options="header"]
+|===
+|Event |Producer |Consumers |Meaning
+|TODO |TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.

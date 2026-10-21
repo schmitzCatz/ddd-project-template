@@ -1,0 +1,37 @@
+= Value Proposition
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Describe why target users should choose this solution.
+
+*Guiding Questions*
+* What value is delivered?
+* How does it differ from alternatives?
+
+*Expected Artifacts*
+* Value proposition
+* Alternatives
+
+*Guidelines*
+* Describe pains, gains and differentiators.
+* Ground claims in user evidence.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

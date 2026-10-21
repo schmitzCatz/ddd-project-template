@@ -1,0 +1,18 @@
+title: ""
+labels: []
+body:
+  - type: textarea
+    id: topic
+    attributes:
+      label: Topic
+      description: What would you like to discuss?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and references
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome

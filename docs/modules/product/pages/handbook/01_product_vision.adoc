@@ -1,0 +1,37 @@
+= Product Vision
+:toc:
+
+// TEMPLATE: Replace TODOs and remove irrelevant prompts.
+
+[NOTE]
+====
+*Purpose:* Define the long-term direction and intended impact.
+
+*Guiding Questions*
+* Who is the product for?
+* What future state should it enable?
+
+*Expected Artifacts*
+* Vision statement
+* Strategic alignment
+
+*Guidelines*
+* Write a concise vision statement.
+* Describe desired outcomes rather than a feature list.
+====
+
+== Overview
+
+TODO: Provide a concise overview.
+
+== Details
+
+TODO: Fill in the relevant information and link supporting evidence.
+
+== Related Artifacts
+
+* TODO: Add links to GitHub Issues, Domain Handbook, or arc42 where relevant.
+
+== Open Questions
+
+* TODO: Record unresolved questions.

@@ -1,0 +1,51 @@
+= Context Map
+:description: Domain Handbook — Context Map.
+
+== Purpose
+
+Document relationships and collaboration patterns between bounded contexts.
+
+[%collapsible]
+.Template guidance
+====
+*Guiding questions*
+
+* Which contexts exchange information?
+* Which context is upstream or downstream?
+* Which contracts and dependencies exist?
+* Where are anti-corruption layers needed?
+
+*Expected artifacts*
+
+* Context map diagram
+* Relationship catalog
+* Integration patterns
+* Upstream/downstream dependencies
+* Known coupling risks
+
+*Modeling guidelines*
+
+Label relationship direction and pattern. Separate current state from desired state.
+====
+
+== Overview
+
+TODO: Summarize the project-specific findings for this chapter.
+
+== Context Map
+
+TODO: Add a PlantUML context map and describe each relationship below.
+
+[cols="2,2,2,3",options="header"]
+|===
+|Upstream |Downstream |Relationship |Contract / Notes
+|TODO |TODO |TODO |TODO
+|===
+
+== Decisions and References
+
+* TODO: Link related domain decisions, evidence and supporting documents.
+
+== Open Questions
+
+* TODO: Record remaining questions and validation steps.
