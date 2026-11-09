@@ -14,7 +14,7 @@
     "test:generator": "node --test tests/generate.test.mjs"
   },
   "devDependencies": {
-    "antora": "3.2.1",
+    "antora": "3.2.2",
     "browser-sync": "^3.0.4",
     "chokidar-cli": "^3.0.0",
     "concurrently": "^10.0.6"
